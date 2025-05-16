@@ -48,22 +48,20 @@ Liste des projets réalisés durant ma formation [DWWM](https://gretaformation.a
 ## Figma - Projet VisioTech 🎨🎬 (Mai 2025)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
-**Objectif** : Réaliser la maquette pour notre projet [Visiotech](https://www.figma.com/design/sSM8OPuiDKpTGubUSrxOjj/Visiotech?m=auto&t=xptstndFuxVvH3N4-6).
+**Objectif** : Réaliser la maquette pour notre projet [VisioTech](https://www.figma.com/design/sSM8OPuiDKpTGubUSrxOjj/Visiotech?m=auto&t=xptstndFuxVvH3N4-6).
 
 **Description** : Créer les différents composants et toutes les pages de notre projet.
 
-## JavaScript - Katas 💡🧠 (Mai 2025)
+## JavaScript & Katas 💡🧠 (Mai 2025)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 
 **Objectif** : Apprendre les bases de JavaScript.
 
-**Description** : Résoudre des Katas, s'exercer sur les fonctions JS (fundamentals, array, string, array functions, object)
+**Description** : Résoudre des Katas, s'exercer sur des fonctions JS (fundamentals, array, string, array functions, object) et manipuler le DOM.
 
 ## Maquettes ✍️🎨 (Avril 2025)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 
 **Objectif** : Apprendre les bases de Figma.
 
