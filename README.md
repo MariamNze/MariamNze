@@ -9,9 +9,9 @@ I've been learning to code after switching careers. I started with HTML, CSS and
 
 * 🎓  Titre Profesionnel Développpeur Web et Web Mobile (Bac +2) - From 25 March 2025 to 15 January 2026
 
-* 👩‍💻  I'm currently working on a movie tracking plateform **VisioTech**
+* 👩‍💻  I'm currently working on a climbing plateform **ClimbJAM**
 
-* 🧠  I'm learning Springboot and Spring Security
+* 🧠  I'm currently learning Next.js
 
 * 💬  For more information, check my [Digital CV](https://mariamnze.github.io/cv/) 
 
